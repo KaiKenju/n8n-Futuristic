@@ -3,7 +3,7 @@ AI-Agent: Low-Code &amp; No-Code Automation Nexus
 
 <div align="center">
 <!-- width=120 height=120 -->
-<img alt="AI_AGENT" src="assets/logo.png" style="width:720px; height:250px; object-fit:cover;">
+<img alt="AI_AGENT" src="assets/logo.png">
 
  🌎 English / [Vietnamese](README_vn.md) / [日本](README_jp.md)
 
