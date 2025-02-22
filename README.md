@@ -3,8 +3,7 @@ AI-Agent: Low-Code &amp; No-Code Automation Nexus
 
 <div align="center">
 <!-- width=120 height=120 -->
-<img alt="AI_AGENT" src="assets/logo.png" > 
-<h1>TransLayoutDocs</h1>
+<img alt="AI_AGENT" src="assets/logo.png" style="width:720px; height:250px; object-fit:cover;">
 
  🌎 English / [Vietnamese](README_vn.md) / [日本](README_jp.md)
 
@@ -12,8 +11,8 @@ AI-Agent: Low-Code &amp; No-Code Automation Nexus
 <br>
 
 # Introduction
- chèn ảnh vô
-n8n is a next-gen, future-proof no-code platform that merges coding flexibility with rapid integrations, built-in AI, and complete data control.
+ <!-- chèn ảnh vô -->
+[n8n](https://github.com/n8n-io/n8n) is a next-gen, future-proof no-code platform that merges coding flexibility with rapid integrations, built-in AI, and complete data control.
 # Key capabilities
 # Technical Overview
 - Google Gemini Embedding
@@ -41,4 +40,3 @@ Access the editor at http://localhost:5678
 Or using web editor for low-code/no-code : [Get Started](https://n8n.io/)
 # Demonstration
 
-https://github.com/n8n-io/n8n
