@@ -25,7 +25,7 @@ AI-Agent: Low-Code &amp; No-Code Automation Nexus
 # Demonstration
 
 
-![Mô tả GIF](assets/fast_demo.gif)
+![Mô tả GIF](assets/demo.gif)
 
 
 # Quick Start
