@@ -13,12 +13,20 @@ AI-Agent: Low-Code &amp; No-Code Automation Nexus
 # Introduction
  <!-- chèn ảnh vô -->
 [n8n](https://github.com/n8n-io/n8n) is a next-gen, future-proof no-code platform that merges coding flexibility with rapid integrations, built-in AI, and complete data control.
-# Key capabilities
+# Chatbot RAG
+
+*Chat* and *Embedding* models are combined to build chatbots based on personal data, implemented in a no-code/low-code approach to minimize programming and no payment *API* costs.
+
 # Technical Overview
 - Google Gemini Embedding
 - Groq 
 - Pinecone Vector Store
 - Google Cloud
+# Demonstration
+
+
+![Mô tả GIF](assets/fast_demo.gif)
+
 
 # Quick Start
 Try n8n instantly with [npx](https://docs.n8n.io/hosting/installation/npm/) (requires [Node.js](https://nodejs.org/en/)):
@@ -38,5 +46,7 @@ docker run -it --rm --name n8n -p 5678:5678 -v n8n_data:/home/node/.n8n docker.n
 Access the editor at http://localhost:5678
 
 Or using web editor for low-code/no-code : [Get Started](https://n8n.io/)
-# Demonstration
+
+
+# Resources
 
